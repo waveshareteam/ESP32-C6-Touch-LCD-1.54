@@ -16,14 +16,14 @@ This repository provides sample programs, pre-built firmware, and hardware desig
 ```text
 .
 ├── examples/        # Sample programs for ESP-IDF and Arduino
-├── Firmware/        # Pre-built firmware binaries
+├── firmware/        # Pre-built firmware binaries
 ├── Hardware/        # Hardware schematics
 └── assets/          # Images used in documentation
 ```
 
 ## Getting Started
 
-Pre-built firmware is available in [`Firmware/`](Firmware). For development environment setup, flashing instructions, pin mappings, and configuration details, refer to the [documentation page](https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.54).
+For factory recovery and prebuilt demos for the touch model, see [firmware/](firmware/). For development setup and pin mappings, see the [product documentation](https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.54).
 
 ## Contributing
 
