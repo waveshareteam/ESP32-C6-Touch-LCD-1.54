@@ -23,7 +23,7 @@ ESP32-C6-Touch-LCD-1.54 是一款基于 ESP32-C6 的紧凑型开发板，搭载�
 
 ## 快速开始
 
-触摸版的出厂恢复和预编译示例请见 [firmware/](firmware/)。开发环境搭建和引脚定义请参考[产品文档](https://docs.waveshare.net/ESP32-C6-Touch-LCD-1.54)。
+有触摸版和无触摸版的出厂恢复及预编译示例请见 [firmware/](firmware/)。开发环境搭建和引脚定义请参考[产品文档](https://docs.waveshare.net/ESP32-C6-Touch-LCD-1.54)。
 
 ## 参与贡献
 

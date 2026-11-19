@@ -23,7 +23,7 @@ This repository provides sample programs, pre-built firmware, and hardware desig
 
 ## Getting Started
 
-For factory recovery and prebuilt demos for the touch model, see [firmware/](firmware/). For development setup and pin mappings, see the [product documentation](https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.54).
+For factory recovery and prebuilt demos for the touch and non-touch models, see [firmware/](firmware/). For development setup and pin mappings, see the [product documentation](https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.54).
 
 ## Contributing
 
